@@ -1,0 +1,3 @@
+tambahkan field no. hp dan email untuk students
+
+tambahkan isian field untuk email dan no hp di file SchoolInitializer.cs bagian student
